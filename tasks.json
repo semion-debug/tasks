@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Go to the gym",
+      "category": "personal",
+      "status": "pending",
+      "created": "2026-03-06T14:16:00Z",
+      "due": "2026-03-06T14:19:00Z",
+      "reminder": "2026-03-06T14:19:00Z",
+      "notes": "Reminder set via Telegram"
+    },
+    {
+      "id": "3",
+      "title": "Go to the gym",
+      "category": "personal",
+      "status": "pending",
+      "created": "2026-03-06T14:27:00Z",
+      "due": "2026-03-07T12:00:00Z",
+      "reminder": "2026-03-07T09:00:00Z",
+      "notes": ""
+    }
+  ],
+  "categories": ["dev", "daily", "business", "personal"]
+}
